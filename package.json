@@ -1,0 +1,19 @@
+{
+  "name": "@gausszhou/vuepress-plugin-code-copy",
+  "version": "1.0.4",
+  "main": "index.js",
+  "author": "boses, gausszhou",
+  "description": "Vuepress juejin style copy code; Vuepress 掘金风格复制代码",
+  "license": "MIT",
+  "keywords": [
+    "vuePress",
+    "plugins",
+    "juejin",
+    "code",
+    "copy"
+  ],
+  "repository": "https://github.com/gausszhou/vuepress-plugin-code-copy",
+  "dependencies": {
+    "clipboard": "^2.0.4"
+  }
+}
